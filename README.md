@@ -1,4 +1,4 @@
-# CursoDataAnalysis - IEEE 📊
+# 📊 Curso Data Analysis - IEEE
 
 Welcome to the **CursoDA_IEEE** repository! This project contains Google Colab notebooks with exercises from a data analysis course conducted by IEEE. The notebooks primarily utilize **Pandas** for data manipulation and **Matplotlib** for data visualization.
 
@@ -15,12 +15,12 @@ Welcome to the **CursoDA_IEEE** repository! This project contains Google Colab n
 
 This repository contains the following notebooks:
 
-1. [EjerciciosClase1.ipynb](EjerciciosClase1.ipynb) - Exercises from the first class, covering:
+1. [ejercicios_clase_1.ipynb](ejercicios_clase_1.ipynb) - Exercises from the first class, covering:
    - Introduction to libraries.
    - Reading and writing Excel and CSV files.
    - Data manipulation with Pandas.
   
-2. [EjerciciosClase2.ipynb](EjerciciosClase2.ipynb) - Exercises from the second class, covering:
+2. [ejercicios_clase_2.ipynb](ejercicios_clase_2.ipynb) - Exercises from the second class, covering:
    - Introduction to Matplotlib.
    - Data visualization.
    - Customization of graphs.
